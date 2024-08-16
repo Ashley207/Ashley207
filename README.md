@@ -9,5 +9,4 @@
 
 - 📫 How to reach me: You can write me on linkedin
 
-[![Ashley207's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashley207)](https://github.com/Ashley207/github-readme-stats)
 ![Ashley207's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashley207&theme=radical&show_icons=true)
